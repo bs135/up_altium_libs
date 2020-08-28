@@ -1,1 +1,1 @@
-# bs_altium_libs
+# up_altium_libs
